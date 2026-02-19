@@ -94,4 +94,4 @@ and is meant only for **institutional or demo elections**.
 
 </div>
 
-https://votetrust-blockchain-voting-platfor.vercel.app/
+(https://votetrust-blockchain-voting-platfor.vercel.app/)
